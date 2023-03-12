@@ -1,0 +1,12 @@
+*.swp
+*.pyc
+*.py~
+.DS_Store
+.cache
+__pycache__/
+*.egg-info/
+*.so
+
+build/
+dist/
+trained/
