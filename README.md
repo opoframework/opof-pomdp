@@ -94,8 +94,27 @@ $5$ is the macro-action length known to be empirically optimal when training usi
 ####
 
 ## Citing
+If you use `opof-pomdp`, please cite us with:
 
-TBD
+```
+@article{lee23opof,
+  author = {Lee, Yiyuan and Lee, Katie and Cai, Panpan and Hsu, David and Kavraki, Lydia E.},
+  title = {The Planner Optimization Problem: Formulations and Frameworks},
+  booktitle = {arXiv},
+  year = {2023},
+  doi = {10.48550/ARXIV.2303.06768},
+}
+
+@inproceedings{lee21a,
+    AUTHOR    = {Yiyuan Lee AND Panpan Cai AND David Hsu},
+    TITLE     = {{MAGIC: Learning Macro-Actions for Online POMDP Planning }},
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems},
+    YEAR      = {2021},
+    ADDRESS   = {Virtual},
+    MONTH     = {July},
+    DOI       = {10.15607/RSS.2021.XVII.041}
+}
+```
 
 ## License
 
