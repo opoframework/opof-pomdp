@@ -150,4 +150,6 @@ class ParallelEvaluator(opof.Evaluator):
             else:
                 t[k] /= c[k]
 
+        t['objective'] = t['reward']
+
         return t
