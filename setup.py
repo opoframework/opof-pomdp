@@ -59,7 +59,7 @@ class build_ext(build_ext_orig):
 
 setup(
     name="opof-pomdp",
-    version="0.2.0",
+    version="0.2.1",
     description="OPOF domains for online POMDP planning",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -84,7 +84,6 @@ setup(
         "License :: OSI Approved :: BSD License",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
-        "Programming Language :: Python :: 3.11",
     ],
     python_requires=">=3.9",
     install_requires=["opof", "torch", "tqdm", "numpy"],
