@@ -13,7 +13,7 @@
 $ pip install opof-pomdp
 ```
 
-`opof-pomdp` is officially tested and supported for Python 3.9, 3.10, 3.11 and Ubuntu 20.04, 22.04.
+`opof-pomdp` is officially tested and supported for Python 3.9, 3.10 and Ubuntu 20.04, 22.04.
 
 ## Domain: `POMDPMacro[task,length]`
 
